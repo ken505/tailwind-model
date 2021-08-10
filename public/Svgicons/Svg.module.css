@@ -1,0 +1,14 @@
+.image {
+  width: 21px;
+  height: 21px;
+  /* fill: brown; */
+  color: white;
+}
+
+.image:hover,
+.image:focus,
+.image:active {
+  color: rgb(255, 212, 219);
+  border-color: rgb(255, 212, 219);
+  cursor: pointer;
+}
